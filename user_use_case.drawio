@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T19:54:26.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="T7U6HHjczxp5QNp7Ble7" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T20:11:29.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="mq3fGgC026PP0-Lr1so_" version="21.6.3" type="github">
   <diagram name="Page-1" id="qGN-IbYMMZTXBo537_Dv">
     <mxGraphModel dx="1183" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,75 @@
         </mxCell>
         <mxCell id="_YuJRCnfqo2RyKWgsc50-13" value="Ricerca ETF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-41" value="Login/Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="570" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-43" value="Visitor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-45" value="Visualizza Blog" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-50" target="_YuJRCnfqo2RyKWgsc50-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-47" value="&amp;lt;&amp;lt; include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_YuJRCnfqo2RyKWgsc50-46">
+          <mxGeometry x="0.1893" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=none;endArrow=none;endFill=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-50" value="Visualizza tutti gli ETF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.97;entryY=0.255;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-52" target="_YuJRCnfqo2RyKWgsc50-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-52" value="Visualizza i migliori ETF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-54" target="_YuJRCnfqo2RyKWgsc50-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-54" value="Visualizza i peggiori ETF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="446.67" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-56" target="_YuJRCnfqo2RyKWgsc50-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-56" value="Visualizza tutti gli ETF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="540" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-58" value="Visualizza Sezione Andamento Mercati" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_YuJRCnfqo2RyKWgsc50-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-60" value="Ricerca ETF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="100" height="66.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
