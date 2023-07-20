@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T20:29:09.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="U8iSSZo2iAeyWfWSWK3X" version="21.6.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-20T20:34:14.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="vIhEqIUU7OCUVumLPVKH" version="21.6.3" type="github" pages="2">
   <diagram name="user use cases" id="qGN-IbYMMZTXBo537_Dv">
     <mxGraphModel dx="1183" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -150,11 +150,20 @@
         <mxCell id="WUWa05mTpZ7Erj5u5Ot0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="530" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="WUWa05mTpZ7Erj5u5Ot0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="210" height="150" as="geometry" />
+        <mxCell id="WUWa05mTpZ7Erj5u5Ot0-3" value="&lt;b&gt;Area Home&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WUWa05mTpZ7Erj5u5Ot0-4" value="Site View Visitatore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WUWa05mTpZ7Erj5u5Ot0-5" value="&lt;b&gt;Area Blog&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WUWa05mTpZ7Erj5u5Ot0-6" value="&lt;b&gt;Area Panoramica&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WUWa05mTpZ7Erj5u5Ot0-7" value="&lt;b&gt;Area Portafogli&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
