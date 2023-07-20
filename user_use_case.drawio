@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T20:34:14.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="vIhEqIUU7OCUVumLPVKH" version="21.6.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-20T20:34:43.758Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="zlVWtD7f3sCoQcEJ70e8" version="21.6.3" type="github" pages="2">
   <diagram name="user use cases" id="qGN-IbYMMZTXBo537_Dv">
     <mxGraphModel dx="1183" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Np8TrlgZO_enM1sixE9W" name="Coarse">
-    <mxGraphModel dx="1223" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
           <mxGeometry x="40" y="50" width="530" height="460" as="geometry" />
         </mxCell>
         <mxCell id="WUWa05mTpZ7Erj5u5Ot0-3" value="&lt;b&gt;Area Home&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="210" height="120" as="geometry" />
+          <mxGeometry x="70" y="90" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WUWa05mTpZ7Erj5u5Ot0-4" value="Site View Visitatore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="210" height="20" as="geometry" />
