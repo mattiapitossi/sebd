@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T19:46:12.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="jGXJS6iF3AqqBb_YQ2D8" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-01T19:46:29.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="zNzRXum__ZA68i6V_d4m" version="21.6.6" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1016" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
         </mxCell>
         <mxCell id="rcwBqdtIKSSbo0TKS-C7-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="rcwBqdtIKSSbo0TKS-C7-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="140" as="targetPoint" />
+            <mxPoint x="320" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="rcwBqdtIKSSbo0TKS-C7-2" target="rcwBqdtIKSSbo0TKS-C7-5">
@@ -205,7 +205,7 @@
         </mxCell>
         <mxCell id="rcwBqdtIKSSbo0TKS-C7-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="rcwBqdtIKSSbo0TKS-C7-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="200" as="targetPoint" />
+            <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rcwBqdtIKSSbo0TKS-C7-5" value="Accedi alle valutazioni dei portafogli" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
