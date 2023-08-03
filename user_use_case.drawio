@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T18:02:03.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="VYG3dy-dOn15xhcbGh7r" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-03T18:02:24.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="RjabSw83gUWJFbGpz8DF" version="21.6.6" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1016" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,19 +301,31 @@
           <mxGeometry x="40" y="978.34" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-113" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.271;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-86" target="iCgb5GYu46unTeEcU0GK-94">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCgb5GYu46unTeEcU0GK-114" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iCgb5GYu46unTeEcU0GK-113">
+          <mxGeometry x="0.1799" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-86" value="Rimuovi un ETF" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="890" width="95" height="36.67" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-94" value="Visualizza tutti gli ETF" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="405" y="859.18" width="90" height="39.99" as="geometry" />
+          <mxGeometry x="420" y="850.01" width="90" height="39.99" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-112" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-95" target="iCgb5GYu46unTeEcU0GK-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="890" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCgb5GYu46unTeEcU0GK-115" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iCgb5GYu46unTeEcU0GK-112">
+          <mxGeometry x="-0.3498" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-95" value="Modifica un ETF" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
