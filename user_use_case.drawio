@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T07:10:48.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="PBAW5--BzJNoQCGHDgiS" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-03T07:11:14.201Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="WTVucNTAxuU6dnVTLLEw" version="21.6.6" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1016" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,12 +262,14 @@
         <mxCell id="iCgb5GYu46unTeEcU0GK-63" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-68" target="iCgb5GYu46unTeEcU0GK-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iCgb5GYu46unTeEcU0GK-64" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-68" target="iCgb5GYu46unTeEcU0GK-86">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iCgb5GYu46unTeEcU0GK-67" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="iCgb5GYu46unTeEcU0GK-94">
+        <mxCell id="iCgb5GYu46unTeEcU0GK-64" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="iCgb5GYu46unTeEcU0GK-86">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="1038.31" as="sourcePoint" />
+            <mxPoint x="310" y="1020" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCgb5GYu46unTeEcU0GK-67" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="iCgb5GYu46unTeEcU0GK-94" source="iCgb5GYu46unTeEcU0GK-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1040" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-68" target="iCgb5GYu46unTeEcU0GK-95">
@@ -283,11 +285,11 @@
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="1018.34" as="targetPoint" />
+            <mxPoint x="340" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-71" value="Aggiungi nuovo ETF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="860" width="100" height="66.67" as="geometry" />
+          <mxGeometry x="420" y="870" width="100" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -302,7 +304,7 @@
           <mxGeometry x="90" y="890" width="95" height="36.67" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-94" value="Visualizza tutti gli ETF" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="490" y="940" width="90" height="39.99" as="geometry" />
+          <mxGeometry x="505" y="968.35" width="90" height="39.99" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-95" value="Modifica un ETF" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="285" y="860" width="80" height="38.34" as="geometry" />
