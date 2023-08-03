@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T06:40:48.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="SlXIsnQGF_Qvirqt1dnY" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-03T06:55:48.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="xMLXllP9SCnvXtNbRaxG" version="21.6.6" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1016" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,11 +143,6 @@
         <mxCell id="iCgb5GYu46unTeEcU0GK-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-10" target="iCgb5GYu46unTeEcU0GK-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iCgb5GYu46unTeEcU0GK-35" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="iCgb5GYu46unTeEcU0GK-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="588.33" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-41" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-10" target="iCgb5GYu46unTeEcU0GK-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -227,11 +222,8 @@
         <mxCell id="iCgb5GYu46unTeEcU0GK-30" value="Accedi alle valutazioni dei portafogli" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="710" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iCgb5GYu46unTeEcU0GK-31" value="Login" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="526.6600000000001" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iCgb5GYu46unTeEcU0GK-34" value="Logout" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="478.33" width="105" height="30" as="geometry" />
+        <mxCell id="iCgb5GYu46unTeEcU0GK-31" value="Login/Logout" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="496.6600000000001" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-37" value="Accedi all&#39;area riservata" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="418.33" width="95" height="50" as="geometry" />
