@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T13:56:38.043Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="1bwHB-qztL47FhECZZY2" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-05T14:32:44.677Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="TOhLb4PoYvLVl1bhzYgf" version="21.6.6" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1183" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,11 +354,6 @@
         <mxCell id="iCgb5GYu46unTeEcU0GK-97" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-101" target="iCgb5GYu46unTeEcU0GK-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iCgb5GYu46unTeEcU0GK-98" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="iCgb5GYu46unTeEcU0GK-107" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="1300" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-99" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-101" target="iCgb5GYu46unTeEcU0GK-108" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="1320" as="sourcePoint" />
@@ -398,10 +393,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-106" value="Login/Logout" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1258.3400000000001" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iCgb5GYu46unTeEcU0GK-107" value="Rimuovi un ETF" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1170" width="95" height="36.67" as="geometry" />
+          <mxGeometry x="98" y="1233.0000000000002" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-108" value="CRUD utenti" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="520" y="1270" width="90" height="39.99" as="geometry" />
