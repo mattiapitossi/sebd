@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T06:11:59.928Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="KkaLOkOGNQWcEBeVCIAk" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-05T07:57:21.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="6g0RUq0PV6KmpTSCfh3m" version="21.6.6" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1183" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,22 @@
         </mxCell>
         <mxCell id="ALMGFQ648M6m9np--d7F-13" value="Visitatore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N4EFmKFREHGVVSHjSJtz-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="N4EFmKFREHGVVSHjSJtz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4EFmKFREHGVVSHjSJtz-1" value="Investitore Privato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N4EFmKFREHGVVSHjSJtz-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="N4EFmKFREHGVVSHjSJtz-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4EFmKFREHGVVSHjSJtz-3" value="Investitore Professionista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="450" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -227,10 +243,10 @@
           <mxGeometry x="300" y="710" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-31" value="Login/Logout" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="80" y="496.6600000000001" width="110" height="30" as="geometry" />
+          <mxGeometry x="72.5" y="525.0000000000001" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-37" value="Accedi all&#39;area riservata" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="177.5" y="418.33" width="95" height="50" as="geometry" />
+          <mxGeometry x="208" y="414" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-45" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;startArrow=none;startFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-43" target="iCgb5GYu46unTeEcU0GK-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -261,7 +277,7 @@
           <mxGeometry x="75" y="710" width="105" height="41.67" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-61" value="Aggiungi un ETF alla watchlist" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="490" y="610" width="90" height="60" as="geometry" />
+          <mxGeometry x="495" y="602" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-63" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-68" target="iCgb5GYu46unTeEcU0GK-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
