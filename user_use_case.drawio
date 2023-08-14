@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T16:30:21.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="5DIVKdu8OjdYTx32-HkI" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-14T16:30:57.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="pi_8Y__90uqwLVIArZKI" version="21.6.6" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1423" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -532,7 +532,7 @@
         <mxCell id="R93Llo0o5eVTMhgu7LYA-13" value="Site Data Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="880" y="30" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R93Llo0o5eVTMhgu7LYA-14" value="&lt;b&gt;Area Gestione ETF&lt;br&gt;&lt;/b&gt;&lt;br&gt;Create(ETF)&lt;br&gt;&lt;br&gt;Access(&lt;br&gt;&lt;br&gt;Access(" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="R93Llo0o5eVTMhgu7LYA-14" value="&lt;b&gt;Area Gestione ETF&lt;br&gt;&lt;/b&gt;&lt;br&gt;Create(ETF)&lt;br&gt;&lt;br&gt;Modify(ETF)&lt;br&gt;&lt;br&gt;Delete(ETF)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1170" y="90" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R93Llo0o5eVTMhgu7LYA-16" value="&lt;b&gt;Area Portafogli&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(Portfoglio, Ratings)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
