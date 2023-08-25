@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T10:12:27.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="XkqII1ACDhmNvcs2sVB_" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-25T10:15:15.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="2BSLSJ1kRfUz10Ni66dJ" version="21.6.8" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1256" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -515,7 +515,7 @@
           <mxGeometry x="319" y="90" width="231" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WUWa05mTpZ7Erj5u5Ot0-7" value="&lt;b&gt;Area Portafogli Utenti&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(Portfolio, Ratings)&lt;br&gt;Access(Portfolio, Holdings)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="70" y="230" width="478" height="120" as="geometry" />
+          <mxGeometry x="70" y="230" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R93Llo0o5eVTMhgu7LYA-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;D&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="260" y="100" width="30" height="30" as="geometry" />
