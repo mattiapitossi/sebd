@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T14:44:36.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="gQpfy6TXiNvQkXfeB9h1" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-25T14:44:54.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="OoJiLPx2XDbaR36xqNfl" version="21.6.8" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1256" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -551,7 +551,7 @@
           <mxGeometry x="1340" y="190" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rw7vzWT4Rvyfw5_E82Ng-40" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="600" width="530" height="493" as="geometry" />
+          <mxGeometry x="880" y="600" width="530" height="508" as="geometry" />
         </mxCell>
         <mxCell id="Rw7vzWT4Rvyfw5_E82Ng-41" value="&lt;b&gt;Area Home&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(ETF, RecentlyAdded)&lt;br&gt;&lt;br&gt;&lt;br&gt;Access(ETF, BestETF)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="910" y="640" width="230" height="145" as="geometry" />
@@ -560,7 +560,7 @@
           <mxGeometry x="880" y="580" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rw7vzWT4Rvyfw5_E82Ng-43" value="&lt;b&gt;Area Amministrazione&lt;br&gt;&lt;/b&gt;&lt;br&gt;Core(User)&lt;br&gt;&lt;br&gt;Create(User)&lt;br&gt;&lt;br&gt;Modify(User)&lt;br&gt;&lt;br&gt;Delete(User)&lt;br&gt;&lt;br&gt;Create&amp;amp;Connect(User, User_Group)&lt;br&gt;&lt;br&gt;Delete&amp;amp;Disconnect(User, User_Group, User_Portfolio, User_Holdings, User_Watchlist)&lt;br&gt;&lt;br&gt;Create(Group)&lt;br&gt;&lt;br&gt;Modify(Group)&lt;br&gt;&lt;br&gt;Delete(Group)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="908" y="823" width="490" height="260" as="geometry" />
+          <mxGeometry x="908" y="823" width="490" height="275" as="geometry" />
         </mxCell>
         <mxCell id="Rw7vzWT4Rvyfw5_E82Ng-44" value="&lt;b&gt;Area Valutazioni&lt;br&gt;&lt;/b&gt;&lt;br&gt;Core(Portfolio, Ratings)&lt;br&gt;&lt;br&gt;Modify(Ratings)&lt;br&gt;&lt;br&gt;Delete(Ratings)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1166" y="640" width="232" height="146" as="geometry" />
@@ -569,7 +569,7 @@
           <mxGeometry x="1100" y="650" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rw7vzWT4Rvyfw5_E82Ng-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;L&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="1041" width="30" height="30" as="geometry" />
+          <mxGeometry x="1362" y="1059" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rw7vzWT4Rvyfw5_E82Ng-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;L&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1100" y="740" width="30" height="30" as="geometry" />
