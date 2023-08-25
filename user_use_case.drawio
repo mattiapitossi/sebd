@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T13:42:00.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="fwHSWxAXr97T2Js_JLba" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-25T13:44:44.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="Sd0mCbXTWEVMJbRyEpuC" version="21.6.8" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1256" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -589,7 +589,7 @@
         <mxCell id="plP3qmCiYkewMcJb9qIv-4" value="&lt;b&gt;Area Profilo&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(ETF, BestETF)&lt;br&gt;&lt;br&gt;Access(ETF, Category)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="340" y="630" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="plP3qmCiYkewMcJb9qIv-5" value="&lt;b&gt;Area Portafogli&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(Portfolio, Ratings)&lt;br&gt;Access(Portfolio, Holdings)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="plP3qmCiYkewMcJb9qIv-5" value="&lt;b&gt;Area Portafogli&lt;br&gt;&lt;/b&gt;&lt;br&gt;Core(Portfolio, Holdings)&lt;br&gt;Access(Portfolio, Holdings)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="70" y="770" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="plP3qmCiYkewMcJb9qIv-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;D&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -601,7 +601,7 @@
         <mxCell id="plP3qmCiYkewMcJb9qIv-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;L&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="510" y="170" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="plP3qmCiYkewMcJb9qIv-9" value="&lt;b&gt;Area ETF&lt;br&gt;&lt;/b&gt;&lt;br&gt;Access(ETF, BestETF)&lt;br&gt;&lt;br&gt;Access(ETF, Category)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="plP3qmCiYkewMcJb9qIv-9" value="&lt;b&gt;Area ETF&lt;br&gt;&lt;/b&gt;&lt;br&gt;Core(ETF, Currency)&lt;br&gt;&lt;br&gt;Access(ETF, Category)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="340" y="770" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="plP3qmCiYkewMcJb9qIv-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;L&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
