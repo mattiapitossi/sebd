@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T14:54:21.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="G020SfvpZmcBwvuZej_X" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-26T15:18:29.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="Ea_ml7-Jo1YWY9yxeAaT" version="21.6.8" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1256" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="user use cases" id="qGN-IbYMMZTXBo537_Dv">
-    <mxGraphModel dx="1256" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1229" dy="710" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,14 +111,8 @@
         <mxCell id="_YuJRCnfqo2RyKWgsc50-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YuJRCnfqo2RyKWgsc50-7" target="_YuJRCnfqo2RyKWgsc50-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YuJRCnfqo2RyKWgsc50-7" value="Visualizza i peggiori ETF" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_YuJRCnfqo2RyKWgsc50-7" value="Visualizza ETF aggiunti di recente" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="106.67" width="100" height="66.67" as="geometry" />
-        </mxCell>
-        <mxCell id="_YuJRCnfqo2RyKWgsc50-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_YuJRCnfqo2RyKWgsc50-8" target="_YuJRCnfqo2RyKWgsc50-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_YuJRCnfqo2RyKWgsc50-8" value="Visualizza gli ETF per categoria" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="200" width="100" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="_YuJRCnfqo2RyKWgsc50-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_YuJRCnfqo2RyKWgsc50-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -158,7 +152,7 @@
           <mxGeometry x="180" y="281.67" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-7" value="Registrazione" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="210" y="30" width="110" height="30" as="geometry" />
+          <mxGeometry x="170" y="46.67" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-10" target="iCgb5GYu46unTeEcU0GK-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -493,6 +487,14 @@
         </mxCell>
         <mxCell id="_r3t8hat9CER9KTYwFW3-21" value="Visualizza lista utenti premium" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="573" y="982" width="103" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLNx7iwCCc98NqZr2Zmu-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZLNx7iwCCc98NqZr2Zmu-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346" y="118.00543212890625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLNx7iwCCc98NqZr2Zmu-1" value="Login" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="270" y="16.67" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
