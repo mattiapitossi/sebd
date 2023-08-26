@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T15:24:20.820Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="TVbKyHAZxgVPHVsflerX" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-26T15:38:01.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="m9DxhyUx24gqfc9NtuAY" version="21.6.8" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1256" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,8 +142,10 @@
         <mxCell id="iCgb5GYu46unTeEcU0GK-7" value="Registrazione" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="170" y="46.67" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iCgb5GYu46unTeEcU0GK-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-10" target="iCgb5GYu46unTeEcU0GK-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iCgb5GYu46unTeEcU0GK-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="iCgb5GYu46unTeEcU0GK-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="608" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-41" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-10" target="iCgb5GYu46unTeEcU0GK-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -153,7 +155,7 @@
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-48" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="iCgb5GYu46unTeEcU0GK-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="660" as="sourcePoint" />
+            <mxPoint x="308" y="625" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-62" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="iCgb5GYu46unTeEcU0GK-61" edge="1">
@@ -161,9 +163,10 @@
             <mxPoint x="370" y="608.3" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_r3t8hat9CER9KTYwFW3-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-10" target="_r3t8hat9CER9KTYwFW3-15" edge="1">
+        <mxCell id="_r3t8hat9CER9KTYwFW3-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="_r3t8hat9CER9KTYwFW3-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="142.27773521686424" y="486.6626650053879" as="targetPoint" />
+            <mxPoint x="313" y="594" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-10" value="Utente Registrato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -196,7 +199,7 @@
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="620" as="targetPoint" />
+            <mxPoint x="353" y="661" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZLNx7iwCCc98NqZr2Zmu-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="iCgb5GYu46unTeEcU0GK-23" target="ZLNx7iwCCc98NqZr2Zmu-4">
@@ -225,7 +228,7 @@
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iCgb5GYu46unTeEcU0GK-30" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="660" as="targetPoint" />
+            <mxPoint x="315" y="662" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgb5GYu46unTeEcU0GK-30" value="Accedi alle valutazioni dei portafogli" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -484,7 +487,7 @@
         </mxCell>
         <mxCell id="ZLNx7iwCCc98NqZr2Zmu-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="ZLNx7iwCCc98NqZr2Zmu-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365" y="618" as="sourcePoint" />
+            <mxPoint x="365" y="628" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZLNx7iwCCc98NqZr2Zmu-4" value="&lt;br&gt;CRUD Portafoglio" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -492,7 +495,7 @@
         </mxCell>
         <mxCell id="ZLNx7iwCCc98NqZr2Zmu-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="ZLNx7iwCCc98NqZr2Zmu-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="363" y="610" as="sourcePoint" />
+            <mxPoint x="368" y="615" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZLNx7iwCCc98NqZr2Zmu-6" value="&lt;br&gt;CRUD Watchlist" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
