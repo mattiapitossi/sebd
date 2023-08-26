@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T15:22:55.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="JONhM_hdYrGExCRfF0ip" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-26T15:24:20.820Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="TVbKyHAZxgVPHVsflerX" version="21.6.8" type="github" pages="3">
   <diagram id="Zmyo0ofUbtN1_5jeKW_Z" name="hierarchy">
     <mxGraphModel dx="1256" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -454,7 +454,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_r3t8hat9CER9KTYwFW3-5" value="Rimuovi utente" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_r3t8hat9CER9KTYwFW3-5" value="CRUD utente" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="533" y="1516.34" width="82" height="62.66" as="geometry" />
         </mxCell>
         <mxCell id="_r3t8hat9CER9KTYwFW3-9" value="Visualizza tutti i commenti" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -471,18 +471,8 @@
         <mxCell id="_r3t8hat9CER9KTYwFW3-15" value="Gestisci&lt;br&gt;abbonamento premium" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="26" y="451" width="101.72" height="50.34" as="geometry" />
         </mxCell>
-        <mxCell id="_r3t8hat9CER9KTYwFW3-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=none;endFill=0;" parent="1" source="_r3t8hat9CER9KTYwFW3-19" target="_r3t8hat9CER9KTYwFW3-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="557" y="1176.15" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_r3t8hat9CER9KTYwFW3-19" value="Visualizza lista utenti" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_r3t8hat9CER9KTYwFW3-19" value="Visualizza valutazioni utenti" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="1143.15" width="92" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="_r3t8hat9CER9KTYwFW3-21" value="Visualizza lista utenti premium" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="565" y="1106.15" width="103" height="63" as="geometry" />
         </mxCell>
         <mxCell id="ZLNx7iwCCc98NqZr2Zmu-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZLNx7iwCCc98NqZr2Zmu-1">
           <mxGeometry relative="1" as="geometry">
